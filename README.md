@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### I am Eva Thakran, final year cyber secuirty student.
+#### I am Eva Thakran, final year cybersecurity student.
 
 <img align="center" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
