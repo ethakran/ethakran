@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything I would love to share my thoughts if the ball is in my court.
-- 📫 How to reach me: **evathakran1999@gmail.com**
+- 📫 How to reach me: **http://www.linkedin.com/in/eva-thakran**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Quick learner.
 
